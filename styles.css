@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+.holder {
+	display: flex;
+	flex-direction: brown;
+	gap: 10px;
+}
